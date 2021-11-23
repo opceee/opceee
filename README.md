@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @opceee
+- 👀 I’m interested in learning Coding
+- 🌱 I’m currently learning Python and Bash
